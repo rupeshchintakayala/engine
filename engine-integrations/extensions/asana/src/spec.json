@@ -1,0 +1,10 @@
+{
+  "name": "Asana extension",
+  "key": "asana",
+  "description": "write the description",
+  "icon": "asana.svg",
+  "type": "REST",
+  "inputs": [
+
+  ]
+}
