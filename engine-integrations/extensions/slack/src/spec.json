@@ -1,0 +1,10 @@
+{
+  "name": "Slack extension",
+  "key": "slack",
+  "description": "write the description",
+  "icon": "slack.svg",
+  "type": "REST",
+  "inputs": [
+
+  ]
+}
