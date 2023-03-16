@@ -1,0 +1,10 @@
+{
+  "name": "GoogleSpeechToText extension",
+  "key": "google_speech_to_text",
+  "description": "write the description",
+  "icon": "google_speech_to_text.svg",
+  "type": "REST",
+  "inputs": [
+
+  ]
+}
