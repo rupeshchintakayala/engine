@@ -1,0 +1,10 @@
+{
+  "name": "Bitbucket extension",
+  "key": "bitbucket",
+  "description": "write the description",
+  "icon": "bitbucket.svg",
+  "type": "REST",
+  "inputs": [
+
+  ]
+}
