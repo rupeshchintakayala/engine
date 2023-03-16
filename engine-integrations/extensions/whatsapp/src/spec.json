@@ -1,0 +1,10 @@
+{
+  "name": "Whatsapp extension",
+  "key": "whatsapp",
+  "description": "write the description",
+  "icon": "whatsapp.svg",
+  "type": "REST",
+  "inputs": [
+
+  ]
+}
